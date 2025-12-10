@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+
+  <item type="gold" size="small"  w="24" h="18" value="60"  color="#C9B037" pullPenalty="3" />
+  <item type="gold" size="medium" w="36" h="28" value="100" color="#D4AF37" pullPenalty="5" />
+  <item type="gold" size="large"  w="50" h="38" value="180" color="#E6C156" pullPenalty="7" />
+
+  <item type="stone" size="small"  w="28" h="20" value="10" color="#8A8A8A" pullPenalty="6" />
+  <item type="stone" size="medium" w="40" h="30" value="20" color="#787878" pullPenalty="9" />
+  <item type="stone" size="large"  w="56" h="40" value="35" color="#6A6A6A" pullPenalty="12" />
+
+  <item type="diamond" size="small"  w="20" h="20" value="220" color="#00BCD4" pullPenalty="4" />
+  <item type="diamond" size="medium" w="28" h="28" value="300" color="#00ACC1" pullPenalty="6" />
+
+</items>
+
+
