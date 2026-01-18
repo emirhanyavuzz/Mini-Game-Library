@@ -1,8 +1,8 @@
-# Mini Game Platform 🎮
+# Mini Game Platform 
 
 A Java Swing based mini-game collection featuring Snake, Flappy Bird, Sudoku, Chess, and Gold Digger.
 
-## Features ✨
+## Features 
 
 *   **Snake Game**: Classic snake gameplay with difficulty levels (Easy, Medium, Hard) and optional walls.
 *   **Flappy Bird**: A clone of the popular game with smooth mechanics.
@@ -13,7 +13,7 @@ A Java Swing based mini-game collection featuring Snake, Flappy Bird, Sudoku, Ch
 *   **Chess**: A chess implementation (Work in Progress).
 *   **Gold Digger**: Gold miner style game.
 
-## Requirements 🛠️
+## Requirements 
 
 *   Java Development Kit (JDK) 8 or higher.
 
@@ -39,7 +39,7 @@ Sudoku
 
 <img width="1191" height="640" alt="sudoku" src="https://github.com/user-attachments/assets/86be5a42-3300-4713-9c48-01e70ec64316" />
 
-## How to Run 🚀
+## How to Run 
 
 1.  Compile the project:
     ```bash
@@ -51,7 +51,7 @@ Sudoku
     java MiniGamePlatform
     ```
 
-## Controls ⌨️
+## Controls 
 
 *   **General**:
     *   `ESC`: Return to Main Menu.
@@ -61,7 +61,7 @@ Sudoku
     *   `Space`: Pause/Resume.
     *   `Up Arrow` / `Left Click`: Jump.
 
-## Credits 👨‍💻
+## Credits 
 
 Developed by **Emirhan Yavuz** (2025).
 
